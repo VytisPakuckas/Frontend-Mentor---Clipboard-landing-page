@@ -1,0 +1,139 @@
+    @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600&display=swap');
+
+    *,
+    *::before,
+    *::after {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    .container {
+    max-width: 1200px;
+    max-height: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+
+    }
+
+    .button {
+        text-align: center;
+    }
+    .button .left { 
+    position: relative;
+    border-radius: 50px;
+    background-color: hsl(171, 66%, 44%);
+    width: 20%;
+    height: 50px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    cursor: pointer;
+    margin-bottom: 130px;
+    }
+    
+    .button .right {
+    background-color:  hsl(233, 100%, 69%);
+    position: relative;
+    border-radius: 50px;
+    width: 20%;
+    height: 50px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: 80%;
+    font-family: 'Bai Jamjuree', sans-serif;
+    cursor: pointer;
+    }
+    
+    .image-wrapper-2 {
+    position: absolute; top: 30%; right: 46%;
+    }
+
+    .image-wrapper-3 {
+    position:relative; top: 100px; left: -390px;
+    }
+
+    h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    }
+    
+    .hero-content {
+    position: relative;
+    text-align: center;
+    }
+    
+    
+    .hero-content p {
+    padding: 20px 562px 20px 20px;
+    margin: 10px -330px 10px 289px;
+    }
+
+   
+    .container-section-title { 
+    padding-left: 500px;
+    margin-top: -100px;
+    }
+
+    .container-section-title- p {
+    padding: 20px 562px 20px 20px;
+    margin: 10px -330px 10px 289px;}
+
+    .section-title-1 { text-align: center;}
+    .section-title-p { text-align: center;}
+    .p-one {
+    padding: 20px 250px 20px 0px;
+    }
+
+    .p-two {
+    padding: 20px 250px 20px 0px;
+    }
+
+    .p-three {
+    padding: 20px 270px 20px 0px;
+    }
+    .corporation-logo { display: flex;
+        flex-direction: row;
+        gap: 100px;
+        padding-bottom: 100px;
+    
+    }
+    .container-down {
+    display:flex;
+    text-align: center;
+    padding: 100px 100px 200px 0px;
+    
+    }
+    .container-down img { 
+    max-width: 100%;
+    height: 50px;
+    }
+    
+    .footer-guide { display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 0.3fr 0.3fr;
+    gap: 20px; 
+    padding-left: 200px;}
+
+    .image-wrapper-5 {
+    padding-bottom: 100px;
+    position: absolute;
+    }
+
+    .social-logo { 
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    gap: 30px
+    ;}

@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600&display=swap');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+max-width: 1200px;
+margin-right: auto;
+margin-left: auto;
+padding-left: 15px;
+padding-right: 15px;
+font-family: 'Bai Jamjuree', sans-serif;
+font-size: 18px;
+}
+
+.image-wrapper-2 {
+position: absolute; top: 30%; right: 46%;   
+}
+
+.image-2 {
+position:relative; top: 100px; left: -180px;
+}
+.container-1 {
+padding: 60px
+}
+
+.container-1 h1 { 
+    padding: 150px 100px 0px 200px;
+    font-size: 2em;
+    
+}
+.container-2 {
+position:relative;
+
+}
+
+.container-3 {
+width: 60%;
+margin-left: 15%;
+text-align: right;
+margin-top: 30%;
+}
+
+
+
+.button .left { 
+position: relative;
+border-radius: 50px;
+background-color: hsl(171, 66%, 44%);
+width: 20%;
+height: 50px;
+color: white;
+border: none;
+font-weight: bold;
+font-size: 15px;
+font-family: 'Bai Jamjuree', sans-serif;
+cursor: pointer;
+}
+
+.button .right {
+background-color:  hsl(233, 100%, 69%);
+position: relative;
+border-radius: 50px;
+width: 20%;
+height: 50px;
+color: white;
+border: none;
+font-weight: bold;
+font-size: 80%;
+font-family: 'Bai Jamjuree', sans-serif;
+cursor: pointer;
+}
+
+.hero-section { 
+text-align: center;
+}
+
+.hero-section-2 {
+width: 1150px;
+height: 250px;}
+
+.image-computer { 
+position: relative; left: -400px   
+
+}
+
+.hero-section-3 .container-3 h1 {
+font-size: 2.3em;
+padding: 10px 140px 0px 0px;
+}
+
+.hero-section-3 .container-3 .text-3 { 
+text-align: center;
+position: relative; left: -10%;
+}
+
+.hero-section-4 {
+text-align: center;
+position: relative; left: -30%;
+}
+
+.hero-section-4 h1 {     
+padding: 150px 100px 0px 200px;
+font-size: 2em;
+width: 1500px;
+
+}
+
+.hero-section-4 p {
+width: 1600px;
+}
+.hero-section-3 .container-3 h1 {
+font-size: 2.3em;
+padding: 150px 140px 0px 0px;
+}
+
+.paragraf-2 { padding: 0px 151px 20px 151px;}
+
+.paragraf-3-1 { 
+padding:0px 70px 0px 0px ;
+
+}
+
+     body { margin-bottom: 500px;}
+                
